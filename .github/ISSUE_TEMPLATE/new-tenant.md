@@ -1,3 +1,12 @@
+---
+name: ⭐ Neuer Kunde!
+about: Neue Anmeldung auf urlaubsverwaltung.cloud
+title: 'Firmenname (`tenantId`)'
+labels: 'Customer Request'
+assignees: ''
+
+---
+
 Title: Firmenname (tenantId)
 
 Ansprechpartner:
